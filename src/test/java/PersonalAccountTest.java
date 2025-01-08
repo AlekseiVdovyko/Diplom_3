@@ -52,7 +52,6 @@ public class PersonalAccountTest extends BaseUITest {
         Assert.assertTrue("Переход по клику на \"Личный кабинет\" не выполнен", actual);
     }
 
-    //true
     @Test
     @DisplayName("Check click constructor button")
     @Description("Can click constructor button")
